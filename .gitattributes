@@ -1,0 +1,4 @@
+*.xlsx diff=xlsx
+*.md diff=markdown
+*.mmd diff=markdown linguist-language=markdown
+*.mds diff=markdown linguist-language=markdown
